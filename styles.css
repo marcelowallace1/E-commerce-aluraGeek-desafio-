@@ -1,0 +1,29 @@
+
+
+
+.container{
+    padding-left: 9.5rem;
+    padding-right: 9.5rem;
+    display: flex;
+    
+    justify-content: space-between;
+}
+
+
+.submit-lente {
+    position:absolute;
+    top:0; right:0;
+    z-index:10;
+    border:none;
+    background:transparent;
+    outline:none;
+  }
+  
+  .submit-line {
+    position: relative;
+    width: 200px;
+  }
+  
+  .submit-line input {
+    width: 100%;
+  }
