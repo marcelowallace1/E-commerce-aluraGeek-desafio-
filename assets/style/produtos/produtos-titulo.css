@@ -1,0 +1,8 @@
+.produtos__titulo{
+    display: flex;
+    font-size: 2rem;
+    font-style: 'Raleway', sans-serif;
+    font-weight: 700;
+    line-height: 37px;
+    color: #464646;
+}

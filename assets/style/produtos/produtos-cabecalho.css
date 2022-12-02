@@ -1,8 +1,6 @@
-.cabecalho{
+.produtos__cabecalho{
     display: flex;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
     align-items: center;
     justify-content: space-between;
+    margin-top: 64px;
 }
-
