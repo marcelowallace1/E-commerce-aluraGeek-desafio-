@@ -1,0 +1,13 @@
+.banner__titulo{
+    display: flex;
+    color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    margin-left: 9.5rem;
+    padding-top: 9.375rem;
+    font-size: 3.25rem;
+    line-height: 3.8125rem;
+    font-style: normal;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
+    text-align: start;
+}

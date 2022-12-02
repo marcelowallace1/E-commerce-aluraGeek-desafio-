@@ -1,0 +1,15 @@
+.banner__botao{
+    display: flex;
+    margin-left: 9.5rem;
+    padding: 16px;
+    width: 100px;
+    height: 20px;
+    background-color: #2A7AE4;
+    color: #FFF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    margin-top: 16px;
+    font-size: 16px;
+    text-align: center;
+    
+}
