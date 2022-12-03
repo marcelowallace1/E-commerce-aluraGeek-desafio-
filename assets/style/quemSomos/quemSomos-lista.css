@@ -1,0 +1,12 @@
+.quemSomos__lista{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+    line-height: 19px;
+    color: #464646;
+    flex-grow: 1;
+    margin-left: 100px;
+}
+
+.quemSomos__lista li {
+    margin-bottom: 24px;
+}

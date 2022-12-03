@@ -1,0 +1,28 @@
+.quemSomos__input--nome{
+    padding: 8px;
+    width: 72vh;
+    height: 56px;
+    border: transparent;
+    border-bottom: 1px solid #A2A2A2;
+    border-radius: 8px;
+    text-align: start;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 0.75;
+    margin-bottom: 16px;
+    box-sizing: content-box;
+}
+
+.quemSomos__input--mensagem{
+    width: 70vh;
+    height: 82px;
+    border: transparent;
+    padding: 16px;
+    border-bottom: 1px solid #A2A2A2;
+    border-radius: 8px;
+    text-align: start;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 0.75;
+    box-sizing: content-box;
+}

@@ -1,0 +1,6 @@
+.quemSomos__form{
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+    margin-left: 100px;
+}

@@ -1,0 +1,16 @@
+.quemSomos {
+    background: #EAF2FD;
+    height: 368px;
+    padding-top: 64px;
+    display: flex;
+
+}
+
+.quemSomos__form--titulo {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 1rem;
+    line-height: 19px;
+    color: #464646;
+    margin-bottom: 8px;
+}
