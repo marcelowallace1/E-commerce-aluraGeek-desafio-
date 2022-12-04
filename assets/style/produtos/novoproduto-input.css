@@ -1,0 +1,24 @@
+.novoProduto__input{
+    width: 559px;
+    height: 56px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 20px;
+    background: #fff;
+    border: transparent;
+    border-bottom: 1px solid #A2A2A2;
+    color: #A2A2A2;
+}
+
+@media screen and (min-width: 0px ) and (max-width: 767px){
+
+    .novoProduto__input{
+        width: 100%
+        
+
+    }
+
+}

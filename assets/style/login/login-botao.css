@@ -12,6 +12,12 @@
     border-radius: 5px;
 }
 
+.login__botao:hover{
+    background-color: #5595E9;
+    transition: 0.3s;
+}
+
+
 
 @media screen and (min-width: 0px ) and (max-width: 767px){
     .login__botao{

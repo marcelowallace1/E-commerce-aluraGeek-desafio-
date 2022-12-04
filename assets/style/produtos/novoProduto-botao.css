@@ -1,0 +1,29 @@
+
+.novoProduto__botao{   
+width: 530px;
+background: #2A7AE4;
+text-align: center;
+padding: 16px;
+font-family: 'Raleway', sans-serif;
+font-weight: 400;
+font-size: 0.875rem;
+line-height: 21px;
+color: #fff;
+border-radius: 5px;
+}
+
+.novoProduto__botao:hover{
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.1);
+    transition: .3s;
+}
+
+
+
+@media screen and (min-width: 0px ) and (max-width: 767px){
+.novoProduto__botao{
+    width: 100%;
+    max-width: 365px;
+}
+
+}

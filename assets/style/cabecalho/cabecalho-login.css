@@ -11,6 +11,13 @@
 
 }
 
+.cabecalho__login:hover{
+    background-color: #D4E4FA;
+    -webkit-transform: scale(1.2); /* Safari 3-8 */
+    transform: scale(1.1);
+    transition: .3s;
+}
+
 @media screen and (min-width: 0px ) and (max-width: 767px){
     .cabecalho__login{
         width: 130px;

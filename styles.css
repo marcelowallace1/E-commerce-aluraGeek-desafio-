@@ -1,4 +1,6 @@
-
+html {
+  scroll-behavior: smooth;
+}
 .container{
     padding-left: 9.5rem;
     padding-right: 9.5rem;
@@ -6,7 +8,9 @@
     
 }
 
-
+.search__icon{
+  display: none;
+}
   
   .submit-line input {
     width: 100%;
@@ -23,6 +27,9 @@
     .container{
       padding-left: 1rem;
       padding-right: 1rem;
+    }
+    .search__icon{
+      display: block;
     }
   }
 

@@ -10,3 +10,8 @@
     line-height: 19px;
     font-weight: 400;
 }
+
+.quemSomos__botao:hover{
+    background-color: #5595E9;
+    transition: 0.3s;
+}

@@ -1,0 +1,14 @@
+.novoProduto__titulo{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 1.375rem;
+    color: #464646;
+    
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.novoProduto__titulo:hover{
+    background-color: #5595E9;
+    transition: 0.3s;
+}
