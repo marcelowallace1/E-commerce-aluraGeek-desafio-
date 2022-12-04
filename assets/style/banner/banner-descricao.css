@@ -8,3 +8,29 @@
     font-size: 1.375rem ;
     text-shadow: 0 4px 4px rgba(0, 0, 0, 0.75);
 }
+
+
+@media screen and (min-width: 768px ) and (max-width: 1200px){
+    .banner__descricao{
+        margin-left: 2rem;
+    }
+
+
+}
+
+
+
+@media screen and (min-width: 0px ) and (max-width: 767px){
+    .banner__descricao{
+        margin-left: 1rem;
+    }
+}
+
+
+@media screen and (min-width: 1475px ) and (max-width: 1922px){
+    .banner__descricao{
+        margin-left: 19rem;
+        
+    }
+
+  }

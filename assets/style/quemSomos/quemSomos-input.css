@@ -1,6 +1,6 @@
 .quemSomos__input--nome{
-    padding: 8px;
-    width: 72vh;
+    padding: 16px;
+    width: calc(100% - 2rem);
     height: 56px;
     border: transparent;
     border-bottom: 1px solid #A2A2A2;
@@ -14,7 +14,7 @@
 }
 
 .quemSomos__input--mensagem{
-    width: 70vh;
+    width: calc(100% - 2rem);
     height: 82px;
     border: transparent;
     padding: 16px;
@@ -26,3 +26,14 @@
     font-size: 0.75;
     box-sizing: content-box;
 }
+
+
+@media screen and (min-width: 768px ) and (max-width: 1200px){
+    .quemSomos__input--nome{
+        width: calc(100% - 3rem)
+    }
+    .quemSomos__input--mensagem{
+        width: calc(100% - 3rem)
+    }
+}
+

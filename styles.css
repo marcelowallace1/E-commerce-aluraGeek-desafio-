@@ -1,29 +1,35 @@
 
-
-
 .container{
     padding-left: 9.5rem;
     padding-right: 9.5rem;
-    display: flex;
-    
+    display: flex;    
     
 }
 
 
-.submit-lente {
-    position:absolute;
-    top:0; right:0;
-    z-index:10;
-    border:none;
-    background:transparent;
-    outline:none;
-  }
-  
-  .submit-line {
-    position: relative;
-    width: 200px;
-  }
   
   .submit-line input {
     width: 100%;
+  }
+
+  @media screen and (min-width: 768px ) and (max-width: 1200px){
+    .container{
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+
+  @media screen and (min-width: 0px ) and (max-width: 767px){
+    .container{
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+
+  @media screen and (min-width: 1475px ) and (max-width: 1922px){
+    .container{
+      padding-left: 12rem;
+      padding-right: 12rem;
+    }
+
   }

@@ -4,3 +4,12 @@
     flex-grow: 2;
     margin-left: 100px;
 }
+
+
+
+@media screen and (min-width: 0px ) and (max-width: 767px){
+    .quemSomos__form{
+        margin-left: 0;
+        padding-bottom: 16px;
+    }
+}

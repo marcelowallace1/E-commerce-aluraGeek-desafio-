@@ -10,3 +10,14 @@
     align-items: center;
     gap: 8px;
 }
+
+.produtos__botao--adicionar{
+    height: 20px;
+    width: 149px;
+    background: #2A7AE4;
+    padding: 16px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+}

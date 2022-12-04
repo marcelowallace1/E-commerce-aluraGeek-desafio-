@@ -13,3 +13,31 @@
     text-align: center;
     
 }
+
+
+@media screen and (min-width: 768px ) and (max-width: 1200px){
+    
+    .banner__botao{
+        margin-left: 2rem;
+    }
+
+
+}
+
+
+
+@media screen and (min-width: 0px ) and (max-width: 767px){
+    .banner__botao{
+        margin-left: 1rem;
+    }
+}
+
+
+
+@media screen and (min-width: 1475px ) and (max-width: 1922px){
+    .banner__botao{
+        margin-left: 19rem;
+        
+    }
+
+  }
