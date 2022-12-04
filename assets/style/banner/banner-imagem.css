@@ -1,5 +1,5 @@
 .banner__imagem{
-    background: url("../assets/photos/banner-image.png");
+    background: url(../../photos/banner-image.png) no-repeat center center;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
