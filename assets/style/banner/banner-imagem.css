@@ -1,5 +1,5 @@
 .banner__imagem{
-    background: url(./assets/photos/banner-image.png) no-repeat center / cover;
+    background: url(banner-image.png) no-repeat center / cover;
     height: 100vh;
     max-height: 352px;
     width: 100%;
